@@ -12,7 +12,7 @@
         <dependency>
             <groupId>org.graalvm.sdk</groupId>
             <artifactId>graal-sdk</artifactId>
-            <version>1.0.0-rc14</version>
+            <version>1.0.0-rc16</version>
         </dependency>
     </dependencies>
 
